@@ -2,6 +2,7 @@
 //assign operators
 var a =10;
 var b =5;
+/*
 //assign
 console.log(a=b);
 //addition
@@ -14,8 +15,8 @@ console.log(a*=b)
 console.log(a/=b);
 //modulus
 console.log(a%=b);
-
-
+*/
+/*
 //comparision operators
 //equal
 console.log(a==b);
@@ -34,13 +35,22 @@ console.log(a<b);
 //lesss than equal
 console.log(a<=b);
 
+/*
 //arithmatic operators
 //remainder
 console.log(a%b);
 //increment
 console.log(a++);
+//postfix
+a=a++;
+//prefix
+a=++a
 //decrement
 console.log(a--);
+//postfix
+a=a--
+//prefix
+a=
 //unary negation
 console.log(a-b);
 //unary plus
@@ -96,7 +106,7 @@ console.log(a>b)
 //nan
 console.log(d/c);
 //null
-var f = ""
+var f = document.getElementById("mukesh")
 console.log(f);
 //undefined
 var country = 
@@ -107,3 +117,4 @@ console.log(cars);
 //object
 var person = {firstName:"mugesh", lastName:"kumar", age:22, state:"tamilnadu"};
 console.log(person);
+*/
